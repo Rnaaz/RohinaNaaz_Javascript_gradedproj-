@@ -1,0 +1,16 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    line-height: 1.6;
+}
+
+.todo-input,
+.edit-todo-input {
+    outline: none;
+}
+
+.todo-input:focus,
+.edit-todo-input:focus {
+    border    : none !important;
+    box-shadow: none !important;
+}
+
